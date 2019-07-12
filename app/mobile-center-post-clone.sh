@@ -1,3 +1,3 @@
-if [ "$SECRET_SALT" = "test" ]; then
+if [ "$secret" = "test" ]; then
 echo "variable is valid"
 fi
